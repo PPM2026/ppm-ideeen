@@ -16,7 +16,7 @@ const PLATFORM_CONFIG = {
   team:                { label: 'Team Dashboard',        icon: 'people-outline',     url: 'https://ppm-team-dashboard.vercel.app' },
   meta:                { label: 'Admin Dashboard',       icon: 'shield-outline',     url: 'https://ppm-admin-dashboard.vercel.app' },
   ideeen:              { label: 'Ideeën',                icon: 'bulb-outline',       url: 'https://ppm-ideeen.vercel.app' },
-  zorgplatform:        { label: 'Zorgplatform',          icon: 'heart-outline',      url: 'https://ppm-zorgplatform.vercel.app' }
+  zorgplatform:        { label: 'Zorgplatform',          icon: 'heart-outline',      url: 'https://zorgplatform.ppmgroup.nl' }
 }
 
 let _cachedAccess = null
