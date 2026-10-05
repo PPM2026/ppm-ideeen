@@ -10,9 +10,9 @@
 import { supabase } from './supabase.js'
 
 const PLATFORM_CONFIG = {
-  assetmanagement:     { label: 'Asset Management',     icon: 'business-outline',   url: 'https://ppm-assetmanagement.vercel.app' },
+  assetmanagement:     { label: 'Asset Management',     icon: 'business-outline',   url: 'https://asset.ppmgroup.nl' },
   projectontwikkeling: { label: 'Projectontwikkeling',  icon: 'construct-outline',  url: 'https://ppm-projectontwikkeling.vercel.app' },
-  acquisitie:          { label: 'Acquisitie',            icon: 'trending-up-outline', url: 'https://ppm-acquisitie.vercel.app' },
+  acquisitie:          { label: 'Acquisitie',            icon: 'trending-up-outline', url: 'https://acquisitie.ppmgroup.nl' },
   team:                { label: 'Team Dashboard',        icon: 'people-outline',     url: 'https://ppm-team-dashboard.vercel.app' },
   meta:                { label: 'Admin Dashboard',       icon: 'shield-outline',     url: 'https://ppm-admin-dashboard.vercel.app' },
   ideeen:              { label: 'Ideeën',                icon: 'bulb-outline',       url: 'https://ppm-ideeen.vercel.app' },
